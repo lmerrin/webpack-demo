@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Raleway";
+  src: url("./Raleway/Raleway-VariableFont_wght.ttf") format(woff);
+}
+
+@font-face {
+  font-family: "mario";
+  src: url("./SuperMario256.ttf") format(woff);
+}
+
+.hello {
+  font-size: 200px;
+  color: rgba(214, 65, 65, 0.772);
+  font-family: "mario";
+  background: url("./steven-cordes-8Hy3GWnHoBM-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: fill;
+}
